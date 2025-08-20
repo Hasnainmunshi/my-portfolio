@@ -62,7 +62,7 @@ export default function Home() {
           <img
             src={img}
             alt="Profile"
-            className="w-full h-full object-cover rounded-full border-4 border-white relative z-10 max-w-full"
+            className="w-full h-full object-cover rounded-full  relative z-10 max-w-full border-2  shadow-2xl shadow-lime-200"
           />
           <div className="glow-circle absolute top-0 left-0 w-full h-full rounded-full z-0"></div>
         </div>
