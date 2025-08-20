@@ -15,7 +15,7 @@ function App() {
   }, []);
   return (
     <>
-      <div className="mx-20 mt-4">
+      <div className="mx-6 mt-4">
         <Navbar />
         <div className="container">
           <Home />

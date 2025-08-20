@@ -27,7 +27,7 @@ export default function Home() {
   return (
     <section
       id="home"
-      className="w-full mt-20  bg-[#0b1e39] text-white
+      className="w-full mt-10  bg-[#0b1e39] text-white
                  flex flex-col md:flex-row items-center justify-center lg:gap-44 gap-20 sm:px-6 md:px-12 py-20"
     >
       {/* Left Section */}
