@@ -5,7 +5,7 @@ import "../App.css";
 export default function Experience() {
   return (
     <div className="flex items-center justify-center p-4" id="experience">
-      <div className="max-w-5xl w-full">
+      <div className="max-w-6xl w-full">
         {/* Section Title */}
         <div>
           <h1 className="text-2xl sm:text-3xl md:text-4xl font-black text-center mb-6 sm:mb-8">
@@ -17,7 +17,7 @@ export default function Experience() {
           return (
             <div
               key={data.id}
-              className="w-full flex flex-col md:flex-row items-center md:items-start md:justify-between gap-4 sm:gap-6 m-2 sm:m-4 p-4 sm:p-6 rounded-xl sm:rounded-2xl shadow-md sm:shadow-lg shadow-lime-200 bg-black text-center md:text-left"
+              className="w-full flex flex-col md:flex-row items-center md:items-start md:justify-between gap-4 sm:gap-6 m-2 mb-8 sm:mb-12 sm:m-4 p-4 sm:p-6 rounded-xl sm:rounded-2xl shadow-md sm:shadow-lg shadow-lime-200 bg-black text-center md:text-left"
               data-aos="zoom-in"
               data-aos-duration="1000"
             >
