@@ -37,7 +37,7 @@ export default function Contact() {
       icon: (
         <FaSquareGithub className="w-16 h-16 border-2 border-yellow-200 rounded-full p-2 shadow-md shadow-lime-200" />
       ),
-      link: "https://github.com/Hasnain9205",
+      link: "https://github.com/Hasnainmunshi",
       color: "hover:text-gray-800 hover:shadow-gray-500",
     },
     {
