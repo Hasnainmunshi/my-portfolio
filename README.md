@@ -1,8 +1,46 @@
-# React + Vite
+# 💼 My Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive developer portfolio built with **Next.js**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+
+👉 https://your-vercel-url.vercel.app
+
+---
+
+## ✨ Features
+
+- ⚡ Fast & SEO-friendly (Next.js)
+- 🎨 Responsive UI (Mobile + Desktop)
+- 📂 Projects showcase section
+- 📞 Contact section
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML
+- Javascript
+- React.js
+- Tailwind CSS
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/Hasnainmunshi/my-portfolio.git
+cd my-portfolio
+npm install
+npm run dev
+```
+
+---
+
+## 📌 Author
+
+**Md. Hasnain Ahmed**
+
+- GitHub: https://github.com/Hasnainmunshi
