@@ -9,6 +9,14 @@
   },
   {
     "key": 2,
+    "title": "Valor Panjabi Shop",
+    "imageSrc": "https://i.ibb.co.com/dsCvK8Rx/v-l.webp",
+    "description": "VALOR is a premium Bangladeshi Panjabi brand known for blending traditional heritage with modern elegance. ",
+    "demo": "https://peppy-scone-c6545c.netlify.app",
+    "source": "https://github.com/Hasnainmunshi/valor-svelte-projects"
+  },
+  {
+    "key": 3,
     "title": "Book vibe",
     "imageSrc": "https://i.ibb.co.com/TDw25TGq/book.webp",
     "description": "A book description is a brief overview of a book's plot, characters, and themes.It often includes information about the author.",
@@ -16,7 +24,7 @@
     "source": "https://www.github.com"
   },
   {
-    "key": 3,
+    "key": 4,
     "title": "Retro",
     "imageSrc": "https://cdn.pixabay.com/photo/2016/08/16/17/12/skyscrapers-1598418_640.jpg",
     "description": "This is a project made with complete React js.Modern web application with retro-inspired design elements",
@@ -24,11 +32,11 @@
     "source": "https://www.github.com"
   },
   {
-    "key": 4,
+    "key": 5,
     "title": "React Firebase App",
     "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
     "description": "This is a project made with complete React js.Full-stack application integrating Firebase backend services.",
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Hasnainmunshi/valor-svelte-projects"
   }
 ]
