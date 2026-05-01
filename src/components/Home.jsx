@@ -42,7 +42,7 @@ export default function Home() {
           className="text-base sm:text-lg md:text-xl lg:text-2xl xl:text-3xl font-bold mb-6 min-h-[100px]"
         ></h1>
         <a
-          href="/public/cv.pdf"
+          href="/cv.pdf"
           download="/public/cv.pdf"
           className="inline-block px-6 py-2 border-2 border-yellow-200 text-white font-semibold 
                      hover:bg-yellow-300 hover:text-black transition duration-300 rounded-md"
