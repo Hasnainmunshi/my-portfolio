@@ -43,7 +43,7 @@ export default function Home() {
         ></h1>
         <a
           href="/public/cv.pdf"
-          download="/home/hasu/Documents/cv.pdf"
+          download="/public/cv.pdf"
           className="inline-block px-6 py-2 border-2 border-yellow-200 text-white font-semibold 
                      hover:bg-yellow-300 hover:text-black transition duration-300 rounded-md"
         >
